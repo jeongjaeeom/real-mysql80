@@ -1,4 +1,4 @@
-# Real MySQL 8.0 예제 도커 컴포즈로 실행
+# Real MySQL 8.0 예제 도커 컴포즈
 ### 실행방법
 ```bash
 $ docker-compose up -d
